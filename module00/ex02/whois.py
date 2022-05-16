@@ -6,7 +6,7 @@
 #    By: mbel-bas <mbel-bas@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/02/27 20:19:44 by mbel-bas          #+#    #+#              #
-#    Updated: 2022/02/27 21:18:55 by mbel-bas         ###   ########.fr        #
+#    Updated: 2022/03/03 10:56:12 by mbel-bas         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -28,4 +28,4 @@ if len(sys.argv) == 2:
     if num % 2 == 1:
         print("i'm odd")
 else:
-    print("sir t9awd")
+    print("si")
